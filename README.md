@@ -18,6 +18,24 @@
 
 ---
 
+## 📸 Ekran Görüntüleri
+
+<p align="center">
+  <img src="Assets/MyAssets/Screenshots/1_welcome.png" alt="Karşılama Ekranı" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Assets/MyAssets/Screenshots/2_gameplay1.png" alt="Oynanış 1" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Assets/MyAssets/Screenshots/3_gameplay2.png" alt="Oynanış 2" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Assets/MyAssets/Screenshots/4_gameover.png" alt="Game Over" width="200"/>
+</p>
+
+<p align="center">
+  <sub>Karşılama Ekranı &nbsp;•&nbsp; Oynanış (Sol Mıknatıs) &nbsp;•&nbsp; Oynanış (Engeller) &nbsp;•&nbsp; Game Over</sub>
+</p>
+
+---
+
 ## 📖 Oyun Hakkında
 
 **Flux**, oyuncunun ekranın sağ ve sol tarafına dokunarak bir topu iki mıknatıs arasında yönlendirdiği, sürekli yukarı kayan bir arcade oyunudur. Yolda rastgele çıkan engellere çarpmadan mümkün olduğunca yükseğe çıkmak amaçlanır.
