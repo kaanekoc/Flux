@@ -1,6 +1,18 @@
+## 📸 Ekran Görüntüleri
+
 <p align="center">
-  <img src="Assets/MyAssets/FluxBg.png" alt="Flux Logo" width="120"/>
+  <img src="Assets/MyAssets/Screenshots/1_welcome.png" alt="Karşılama Ekranı" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Assets/MyAssets/Screenshots/3_gameplay2.png" alt="Oynanış" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Assets/MyAssets/Screenshots/4_gameover.png" alt="Game Over" width="200"/>
 </p>
+
+<p align="center">
+  <sub>Karşılama Ekranı &nbsp;•&nbsp; Oynanış &nbsp;•&nbsp; Game Over</sub>
+</p>
+
+---
 
 <h1 align="center">⚡ Flux</h1>
 
@@ -18,23 +30,7 @@
 
 ---
 
-## 📸 Ekran Görüntüleri
 
-<p align="center">
-  <img src="Assets/MyAssets/Screenshots/1_welcome.png" alt="Karşılama Ekranı" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Assets/MyAssets/Screenshots/2_gameplay1.png" alt="Oynanış 1" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Assets/MyAssets/Screenshots/3_gameplay2.png" alt="Oynanış 2" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Assets/MyAssets/Screenshots/4_gameover.png" alt="Game Over" width="200"/>
-</p>
-
-<p align="center">
-  <sub>Karşılama Ekranı &nbsp;•&nbsp; Oynanış (Sol Mıknatıs) &nbsp;•&nbsp; Oynanış (Engeller) &nbsp;•&nbsp; Game Over</sub>
-</p>
-
----
 
 ## 📖 Oyun Hakkında
 
